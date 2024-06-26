@@ -1,0 +1,6 @@
+path: D:/Project/Machine Learning/yolo-leaf/data/processed
+train: images/train
+val: images/val
+
+nc: 4  # Jumlah kelas
+names: ['Blight', 'Common_Rust', 'Gray_Leaf_Spot', 'Healthy']  # Nama kelas
